@@ -12,4 +12,8 @@ Implementation of local and global pairwise sequence alignment algorithms.
 - Command:
     > python3 pairwise_sequence_alignment.py &#45;&#45;input sequences.txt &#45;&#45;alignment local &#45;&#45;scoring&#45;matrix BLOSUM62.txt &#45;&#45;gap&#45;opening&#45;penalty &#45;5 &#45;&#45;gap&#45;extension&#45;penalty &#45;2
 - Output:
+
+
+
+
  ![Screenshot](https://raw.githubusercontent.com/ender-s/PairwiseSequenceAlignment/main/ss.png)
