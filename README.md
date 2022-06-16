@@ -14,5 +14,4 @@ Implementation of local and global pairwise sequence alignment algorithms.
 - Output:
 
 
-
-> ![Screenshot](https://raw.githubusercontent.com/ender-s/PairwiseSequenceAlignment/main/ss.png)
+    > ![Screenshot](https://raw.githubusercontent.com/ender-s/PairwiseSequenceAlignment/main/ss.png)
